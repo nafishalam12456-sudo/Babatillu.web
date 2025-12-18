@@ -8,9 +8,9 @@
   display: flex;
   gap:1rem;
 }
-#search-form input[type="number"] {
+#number-form input[type="number"] {
   outline: 0;
-  padding: 12px;
+  padding: 1px;
   border-radius: 6px;
   font-size: 17px;
 } 
