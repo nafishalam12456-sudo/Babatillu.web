@@ -1,0 +1,17 @@
+.Find-UserId{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.search-form {
+  margin: auto;
+  display: flex;
+  gap:1rem;
+}
+#search-form input[type="search"] {
+  outline: 0;
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 17px;
+} 
+
